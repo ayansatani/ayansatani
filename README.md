@@ -31,7 +31,8 @@
 [![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayansatani&theme=radical&show_icons=true)](https://github.com/ayansatani)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayansatani&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayansatani&theme=radical&show_icons=true&count_private=true)](https://github.com/ayansatani)
+
 
 ---
 

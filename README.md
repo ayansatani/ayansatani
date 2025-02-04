@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 I'm a **Full-Stack Developer** graduating from **Algonquin College**   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
-- 💻 I use daily: **.js**, **.java**, **.php**, **.html**, **css**, **.sql**
+- 💻 I currently working on **.NET**
 - ☕ I’m looking to collaborate on projects to continue learning about programming 
 - 👯 We can connect to play some games of Chess ♟
 - 📫 How to reach me: ayansatani123@gmai.com

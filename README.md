@@ -24,18 +24,6 @@
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" width="200"/>
 </p>
 
----
-
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-
-[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayansatani&theme=radical&show_icons=true)](https://github.com/ayansatani)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayansatani&theme=radical&show_icons=true&count_private=true)](https://github.com/ayansatani)
-
-
----
-
 # Let's connect! 🌎
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="100"/>](https://www.linkedin.com/in/ayan-satani/)

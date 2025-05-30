@@ -18,7 +18,7 @@
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="net" width="45" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="net" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="net" width="45" height="55"/>
 </p>
 <p align="center" style="padding: 20px;">
